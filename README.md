@@ -1,14 +1,3 @@
----
-home: true
-comment: false
-single: true
-heroImage: "./edit-tools.png"
-tagline: 用心，谈技术
-actionText: 进入导航
-actionLink: "/guide/"
-footer: MIT Licensed | Copyright © 2019 心谭
----
-
 <div align="center" class="show-in-github">
   <img src="https://xin-tan.com/edit-tools.png">
   <br/><br/>
@@ -66,23 +55,8 @@ footer: MIT Licensed | Copyright © 2019 心谭
 - [music-api-next](https://github.com/dongyuanxin/music-api-next)：qq音乐、网易音乐、5sing、虾米音乐这四个平台的音乐破解库
 - [news-emotion](https://github.com/dongyuanxin/news-emotion)：中短金融文本情感倾向判断的机器学习模型
 
-## 🤲🏻 协作者
-
-- [协作规范](https://xin-tan.com/together/)
-- [HuangHongkai](https://github.com/HuangHongkai) - **字节跳动**\<2523272490@qq.com\> 👦
-
 ## 📮 联系
 
 - **微信**: IT_xxx
-- **Email**: yuanxin.me@gmail.com
-- **QQ**: 2181111110
-
-<style scoped>
-main ul {
-  line-height: 2.5;
-}
-
-.show-in-github {
-  display: none;
-}
-</style>
+- **Email**: hackerlbj@163.com
+- **QQ**: 270429515
